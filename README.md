@@ -76,12 +76,7 @@ I’m now focused on building practical, hands-on experience through real invest
 
 ## Education & Certifications
 
-Level 2 Certificate in Principles of Cyber Security (NCFE)
-
-Currently developing skills in:
-- Phishing and scam infrastructure analysis
-- HTTP traffic analysis and request tracing
-- OSINT and investigation methodology
+Level 2 Certificate in Principles of Cyber Security (NCFE) 
 
 ---
 
