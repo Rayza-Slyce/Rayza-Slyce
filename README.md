@@ -6,7 +6,7 @@ Turning curiosity into actionable threat analysis
 
 ## About
 
-I’m a self-taught cybersecurity learner focused on real-world investigations into phishing campaigns, scam infrastructure, and attacker behaviour.
+I’m a self-taught cybersecurity researcher and investigator focused on real-world investigations into phishing campaigns, scam infrastructure, and attacker behaviour.
 
 My focus is on understanding how attacks actually work, not just identifying them.
 
