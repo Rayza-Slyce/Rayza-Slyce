@@ -28,6 +28,18 @@ I approach investigations by:
 
 ## Featured Work
 
+### LinkedIn Recruitment Lure Malware Investigation
+
+Analysis of a real-world LinkedIn recruitment lure that used a Google Form and Dropbox-hosted ZIP to deliver a multi-stage malware chain.
+
+The investigation covers the full chain from delivery and static analysis through to dynamic execution, persistence, embedded Python runtime, obfuscated payloads, and command-and-control behaviour.
+
+Part 1 – Delivery & Static Analysis:  
+https://github.com/Rayza-Slyce/Linkedin_Recruitment_Lure_Investigation_Pt1_Static_Analysis
+
+Part 2 – Dynamic Analysis & Payload Behaviour:  
+https://github.com/Rayza-Slyce/Linkedin_Recruitment_Lure_Investigation_Pt2_Dynamic_Analysis
+
 ### Meta Verified Phishing Investigation
 Analysis of a live phishing campaign impersonating Meta’s verification process, including credential harvesting and 2FA interception.
 
