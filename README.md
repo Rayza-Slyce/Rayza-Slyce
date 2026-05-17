@@ -28,6 +28,16 @@ I approach investigations by:
 
 ## Featured Work
 
+### Meta Business Partner Request Phishing Investigation
+
+Investigation into a live Meta-themed credential harvesting campaign abusing legitimate platforms and redirect infrastructure to increase trust and evade simple detection.
+
+The write-up documents the lure, redirect chain, phishing kit behaviour, credential capture flow, infrastructure indicators, abuse reporting process, and practical lessons for identifying similar campaigns.
+
+https://github.com/Rayza-Slyce/meta-business-partner-request-phishing-investigation
+
+---
+
 ### LinkedIn Recruitment Lure Malware Investigation
 
 Analysis of a real-world LinkedIn recruitment lure that used a Google Form and Dropbox-hosted ZIP to deliver a multi-stage malware chain.
@@ -39,6 +49,8 @@ https://github.com/Rayza-Slyce/Linkedin_Recruitment_Lure_Investigation_Pt1_Stati
 
 Part 2 – Dynamic Analysis & Payload Behaviour:  
 https://github.com/Rayza-Slyce/Linkedin_Recruitment_Lure_Investigation_Pt2_Dynamic_Analysis
+
+---
 
 ### Meta Verified Phishing Investigation
 Analysis of a live phishing campaign impersonating Meta’s verification process, including credential harvesting and 2FA interception.
@@ -70,7 +82,8 @@ https://github.com/Rayza-Slyce/facebook-phishing-investigation
 - Phishing and scam investigation workflows
 
 Tools:
-Burp Suite  
+Burp Suite 
+WireShark
 Maltego  
 CyberChef  
 curl / dig / whois  
@@ -82,7 +95,7 @@ Thunderbird (.eml analysis)
 
 After nearly 30 years in barbering, including running my own business, I made the decision to transition into cybersecurity.
 
-I’m now focused on building practical, hands-on experience through real investigations, with the goal of moving into a threat analysis or SOC role.
+I’m now focused on building practical, hands-on experience through real investigations, with the goal of moving into a threat analysis or CTI role.
 
 ---
 
