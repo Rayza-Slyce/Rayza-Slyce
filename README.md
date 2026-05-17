@@ -32,7 +32,7 @@ I approach investigations by:
 
 Investigation into a live Meta-themed credential harvesting campaign abusing legitimate platforms and redirect infrastructure to increase trust and evade simple detection.
 
-The write-up documents the lure, redirect chain, phishing kit behaviour, credential capture flow, infrastructure indicators, abuse reporting process, and practical lessons for identifying similar campaigns.
+The write-up documents the lure, redirect chain, phishing kit behaviour, credential capture flow, infrastructure indicators, and the evidence gathered to support abuse reporting and takedown requests.
 
 https://github.com/Rayza-Slyce/meta-business-partner-request-phishing-investigation
 
