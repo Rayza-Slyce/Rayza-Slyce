@@ -1,4 +1,3 @@
-# Jamie "Rayza" Roberts
 
 Turning curiosity into actionable threat analysis
 
