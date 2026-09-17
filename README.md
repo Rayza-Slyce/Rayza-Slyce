@@ -106,7 +106,6 @@ Level 2 Certificate in Principles of Cyber Security (NCFE)
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/jamierobertsmk  
 Email: rayza_slyce@outlook.com
 
 ---
