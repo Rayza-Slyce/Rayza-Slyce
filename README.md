@@ -72,32 +72,6 @@ https://github.com/Rayza-Slyce/facebook-phishing-investigation
 
 ---
 
-## Skills (Developing)
-
-- OSINT and infrastructure analysis
-- HTTP request and response analysis (Burp Suite)
-- Redirect chain tracking
-- Domain and DNS investigation
-- Phishing and scam investigation workflows
-
-Tools:
-Burp Suite 
-WireShark
-Maltego  
-CyberChef  
-curl / dig / whois  
-Thunderbird (.eml analysis)
-
----
-
-## Background
-
-After nearly 30 years in barbering, including running my own business, I made the decision to transition into cybersecurity.
-
-I’m now focused on building practical, hands-on experience through real investigations, with the goal of moving into a threat analysis or CTI role.
-
----
-
 ## Education & Certifications
 
 Level 2 Certificate in Principles of Cyber Security (NCFE) 
